@@ -1,0 +1,66 @@
+{
+    "enabled": true,
+    "displayName": "stonks",
+    "backgroundImage": "stonks.png",
+    "backgroundSprite": 3,
+    "uiImageColor": "#FFFFFF",
+    "cameraBackgroundColor": "#0e008a",
+    "usesOSFrame": true,
+    "osFrameColor": "#1700e8",
+    "osFrames": [
+        {
+            "id": "BGLevel",
+            "visible": true
+        },
+        {
+            "id": "BGMoney",
+            "visible": true
+        },
+        {
+            "id": "CenterBG",
+            "visible": false
+        },
+        {
+            "id": "DividendBG",
+            "visible": true
+        },
+        {
+            "id": "GraphBG",
+            "visible": true
+        },
+        {
+            "id": "InfoBG",
+            "visible": true
+        },
+        {
+            "id": "MainBG",
+            "visible": false
+        },
+        {
+            "id": "NewsBG",
+            "visible": true
+        },
+        {
+            "id": "SharesBG",
+            "visible": true
+        },
+        {
+            "id": "TickerBG",
+            "visible": true
+        }
+    ],
+    "usesBloom": false,
+    "bloomColor": "#25bf20",
+    "bloomIntensity": 1.5,
+    "bloomStrength": 2.0,
+    "bloomSpill": 0.0,
+    "usesSkinImage": true,
+    "skinImage": "stonks.png",
+    "skinImageAspectRatio": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "skinImageScale": 1.0,
+    "buttonSprite": -1,
+    "buttonColor": "#0e008a"
+}
